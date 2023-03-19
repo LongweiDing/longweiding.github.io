@@ -173,8 +173,12 @@ def standardconf():
   <table summary="Table for page layout." id="tlayout">
   <tr valign="top">
   <td id="layout-menu">
+  <img class="menu" src="imgs/logo.png" width="120px" height="120px" align="center"><br>
 
   [menuend]
+  <br><script type="text/javascript" src="//codice.shinystat.com/cgi-bin/getcod.cgi?USER=SS-44156947-9fc0a"></script>
+  <noscript><a href="https://www.shinystat.com/it/" target="_top"><img src="//www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-44156947-9fc0a" alt="Statistiche web" style="border:0px" /></a>
+  </noscript>
   </td>
   <td id="layout-content">
 
