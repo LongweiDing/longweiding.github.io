@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter
+= Publications
+
+~~~
+- See ORCID, ResearchGate, and Google Scholar
+- * means Corresponding author.
+- These materials are presented to ensure a timely dissemination of scholarly and technical work. The copyright of these papers is owned by their publishers. Misuse of any of the posted below may result in plagiarism. By downloading any material from this site, you are assumed to agree with these terms.
+~~~
+
+== 2023
+
+== 2022
+
+. {{<p><font color="red" size="+0.5&lt;b"> <i>Code Available!</i> </font> Reinforced Swin-conv Transformer for Simultaneous Underwater Sensing Scene Image Enhancement and Super-resolution. <br> <b>Tingdi Ren</b>, Haiyong Xu*, Gangyi Jiang, Mei Yu, Xuan Zhang, Biao Wang, and Ting Luo <br> <i>IEEE Trans Transactions on Geoscience and Remote Sensing</i> <a href="https://ieeexplore.ieee.org/document/9881581" target="_blank"><img src="imgs/PDF.JPG" alt="" width="20" height="20"></a>}}
+
+
+

@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}, nofooter
+= Researches
+
+~~~
+{}{img_left}{imgs/ursct.jpg}{}{320px}{180px}{}{raw}
+- {{<p><font color="red" size="+0.5&lt;b"> <i>Published!</i> </font> Reinforced Swin-conv Transformer for Simultaneous Underwater Sensing Scene Image Enhancement and Super-resolution <br> <b>Tingdi Ren</b>, Haiyong Xu*, Gangyi Jiang, Mei Yu, Xuan Zhang, Biao Wang, and Ting Luo <br> <i>IEEE Trans Transactions on Geoscience and Remote Sensing</i><br><font color="gray" size="+0.5&lt;b"> <i> >> Use our proposed novel Reinforced Swin-Convs Transformer to tackle the challenge of restoring the degraded underwater images due to light absorption and scattering.</i> </font> <br><a href="https://colab.research.google.com/drive/1CXQOHG_Yc5aQ3WvlQKLlHNLA89wXkRjA?usp=sharing" target="“blank”">Explore Now:</a> <a href="https://colab.research.google.com/drive/1CXQOHG_Yc5aQ3WvlQKLlHNLA89wXkRjA?usp=sharing" target="“blank”"><img src="imgs/colab-badge.svg" alt="colab"></a> &nbsp;&nbsp;}}
+~~~

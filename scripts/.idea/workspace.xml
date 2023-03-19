@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a4a6648-5dbd-45c6-ae6e-07e990ab583c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../files/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../files/CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imgs/china.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../imgs/china.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imgs/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../imgs/github.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/MENU" beforeDir="false" afterPath="$PROJECT_DIR$/../jemdocs/MENU" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../jemdocs/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/cheatsheet.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/contact.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/download.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/example.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/exampleIN.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/extra.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/htmlchanges.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/index.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/../jemdocs/index.jemdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/latex.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/mathjax.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/menu.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/../jemdocs/menu.jemdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/modelines.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/revision.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/stuff.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/tables.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jemdocs/using.jemdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jemdoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/jemdoc.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M4xIlJ3uTW87ncU9A9yRQfAXkB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a4a6648-5dbd-45c6-ae6e-07e990ab583c" name="Changes" comment="" />
+      <created>1677040579596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677040579596</updated>
+      <workItem from="1677040581128" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
